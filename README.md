@@ -1,6 +1,6 @@
 # Broadcast messages to facebook
 
-A [Supercode](http://gosupercode.com) function will broadcast messages to facebook. Use in server-side to protect your FB page access token
+A [Supercode](http://gosupercode.com) function that will broadcast messages to facebook. Call the function in the server-side to protect your FB page access token.
 
 ## Sample Usage
 
